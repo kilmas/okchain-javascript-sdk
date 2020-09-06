@@ -18,10 +18,10 @@ const apiPath = {
 const chainId = "okchain-testnet1"
 const bech32Head = "okchain"
 const mode = "block"
-const nativeDenom = "okt"
+const nativeDenom = "tokt"
 var defaultFee = {
     amount: [{
-        amount: "0.02000000",
+        amount: "0.00200000",
         denom: nativeDenom,
 
     }],
